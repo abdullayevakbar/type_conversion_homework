@@ -5,4 +5,4 @@ var_float=175.6
 #Create a variable called 'answer' and assign it the sum of var_int and var_float.
 answer=var_int+var_float
 #Print the type of answer.
-print(answer)
+print(type(answer))
